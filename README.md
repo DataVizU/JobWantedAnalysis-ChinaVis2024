@@ -13,4 +13,4 @@
 ![比赛图片](https://github.com/user-attachments/assets/433f44f3-6c4f-48f8-bc60-6c8d7b5a9958)
 
 ## 项目答卷
-数据处理、可视设计与结论分析等具体内容详见[📄FinalSheet](./finalSheet/FinalSheet-ChinaVisData2024.pdf)。
+数据处理、可视设计与结论分析等具体内容详见[📄FinalSheet](./FinalSheet-ChinaVisData2024.pdf)。
