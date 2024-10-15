@@ -14,3 +14,15 @@
 
 ## 项目答卷
 数据处理、可视设计与结论分析等具体内容详见[📄FinalSheet](./FinalSheet-ChinaVisData2024.pdf)。
+
+## 竞赛结果
+第十一届中国可视化与可视分析大会（ChinaVis 2024）数据可视化竞赛**提名作品**
+![获奖证书](https://github.com/user-attachments/assets/11dfeb12-00a4-449c-9db7-59dd192c28ba)
+
+## 参与者
+- 余易昕 ([@sakaaanaYu](https://github.com/sakaaanaYu))
+- 余雪柔 ([@Discord-K](https://github.com/Discord-K))
+- 石珩钰
+- 吴沛轩 ([@Pyecv](https://github.com/Pyecv))
+- 朱玺源 ([@AddInistrator](https://github.com/AddInistrator))
+- 陈千鹤 ([@chenqianhe](https://github.com/chenqianhe))
